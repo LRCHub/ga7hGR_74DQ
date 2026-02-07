@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Booty Swing",
+  "base_artist": "Parov Stelar",
+  "createdAt": "2026-02-07T11:51:49.453428Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/01_Booty_Swing_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/02_Booty_Swing_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/03_Booty_Swing_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/04_Booty_Swing_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Booty Swing - Live @ Pukkelpop",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/05_Booty_Swing_-_Live_@_Pukkelpop_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/06_Booty_Swing_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/07_Booty_Swing_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Booty Swing (Original)",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/08_Booty_Swing_(Original)_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/09_Booty_Swing_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/10_Booty_Swing_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/11_Booty_Swing_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Parov Stelar - Booty Swing",
+      "artist": "md05577",
+      "has_synced": true,
+      "path": "select/12_Parov_Stelar_-_Booty_Swing_md05577.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Booty Swing (Original Mix)",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/13_Booty_Swing_(Original_Mix)_Parov_Stelar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Booty Swing",
+      "artist": "Parov Stelar",
+      "has_synced": false,
+      "path": "select/pl_01_Booty_Swing_Parov_Stelar.txt"
+    }
+  ]
+}
