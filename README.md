@@ -1,0 +1,38 @@
+# Parov Stelar – Booty Swing
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.72] Arab sheiks on the burning sands
+[00:15.13] Come into their harems and clap their hands
+[00:17.12] Said, "Come on, girls, are you ready to play?
+[00:19.27] Let's have a little more of that swingin' today"
+[00:21.32] Now, in the land of Fu Manchu
+[00:23.43] The girls all now do the Suzie-Q
+[00:25.53] Clap their hands in the center of the floor
+[00:27.78] Saying, "Ching, ching, chop-suey, swing some more!"
+[00:53.28] 
+[00:29.65] Now, geisha girls in old Japan
+[00:48.19] Wink behind their peacock fans
+[00:51.24] Since they learned to say, "Yeah!
+[00:53.39] Let's swing it like Amelican's swing swing dance!"
+[01:18.39] 
+[01:19.77] Now, Gypsy caravans have changed their mode
+[01:23.08] They truck down the Romany road
+[01:25.08] With their hi-de-hos, and their hey-hey-diddle
+[01:27.20] Doin' the swing on the Gypsy fiddle
+[01:44.70] 
+[01:46.13] Them eastern wisemen know the story
+[01:48.37] Of the swing with Oriental glory
+[01:50.46] They stroke their beards and grin
+[01:52.66] Sayin', "Swing, little children, 'til the dawn comes in!"
+[01:54.81] Now, geisha girls in old Japan
+[01:56.74] Wink behind their peacock fans
+[01:58.82] Since they learned to say, "Yeah!
+[02:00.87] Let's swing it like Amelican's swing swing dance!"
+[02:25.87] 
+[02:22.01] Gypsy caravans have changed their mode
+[02:31.15] They truck down the Romany road
+[02:32.98] With their hi-de-hos, and their hey-hey-diddle
+[02:35.23] Doin' the swing on the Gypsy fiddle
+```
